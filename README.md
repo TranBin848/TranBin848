@@ -1,28 +1,67 @@
-## Chào bạn! 👋 
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranBin848&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="TranBin848's GitHub Stats" />
+  🎮 <b>Game Developer | Software Engineer</b> 💻
 </p>
 
 ---
-#### 🌐 Web Development 
 
-| Công nghệ | Icon |
-| :--- | :--- |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/> |
-| **Database** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> |
+### 👀 About me  
 
-#### 🎮 Game Development 
-
-| Engine | Icon |
-| :--- | :--- |
-| **Unity** | <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> |
-| **Godot** | <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Badge"/> |
 
 ---
 
-### 📫 Kết Nối Với Tôi
+### 🧠 Skills  
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Đặt link LinkedIn của bạn tại đây])
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Địa chỉ Email của bạn])
+#### Programming Languages:
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### Frameworks and Technologies:
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TranBin848&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="TranBin848's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranBin848&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect with Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:mhHung0811@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ “Code. Create. Conquer.” ✨</i>
+</p>
