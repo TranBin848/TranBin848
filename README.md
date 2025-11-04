@@ -1,16 +1,28 @@
-## Hi there 👋
+## Chào bạn! 👋 
 
-<!--
-**TranBin848/TranBin848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TranBin848&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="TranBin848's GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+---
+#### 🌐 Web Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Công nghệ | Icon |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/> |
+| **Database** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> |
+
+#### 🎮 Game Development 
+
+| Engine | Icon |
+| :--- | :--- |
+| **Unity** | <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> |
+| **Godot** | <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Badge"/> |
+
+---
+
+### 📫 Kết Nối Với Tôi
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Đặt link LinkedIn của bạn tại đây])
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Địa chỉ Email của bạn])
