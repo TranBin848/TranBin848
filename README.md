@@ -18,31 +18,21 @@
 
 ### 📊 GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="![TranBin848's Stats](https://github-readme-stats.vercel.app/api?username=TranBin848&theme=dracula&show_icons=true&hide_border=true&count_private=true)" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranBin848&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TranBin848&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranBin848&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br clear="both"/>
 
 ---
 
 ### 🤝 Connect with Me  
-
 <p>
-  <!-- <a href="https://www.linkedin.com/in/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> -->
   <a href="mailto:tranbinn848@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
