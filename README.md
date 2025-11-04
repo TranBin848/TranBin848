@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TranBin848&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="TranBin848's GitHub Stats" />
+      <img src="![TranBin848's Stats](https://github-readme-stats.vercel.app/api?username=TranBin848&theme=dracula&show_icons=true&hide_border=true&count_private=true)" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranBin848&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
