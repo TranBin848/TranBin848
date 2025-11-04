@@ -1,24 +1,9 @@
-<h1 align="center">Hi 👋</h1>
-
-<p align="center">
-  🎮 <b>Game Developer | Software Engineer</b> 💻
-</p>
-
 ---
 
 ### 👀 About me  
 
 
 ---
-
-### 🧠 Skills  
-
-#### Programming Languages:
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
 
 #### Frameworks and Technologies:
 <p>
@@ -49,19 +34,15 @@
 ### 🤝 Connect with Me  
 
 <p>
-  <a href="https://www.linkedin.com/in/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/[THAY_BẰNG_LINK_CỦA_BỆ_HẠ]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:mhHung0811@gmail.com" target="_blank">
+  </a> -->
+  <a href="mailto:tranbinn848@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>✨ “Code. Create. Conquer.” ✨</i>
-</p>
